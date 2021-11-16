@@ -1,6 +1,29 @@
 .form-signin {
     width: 100%;
-    max-width: 330px;
+    max-width: 500px;
     padding: 15px;
     margin: auto;
+    background-color: #212529;
+}
+
+* {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a.text-info {
+    font-size: 32px;
+}
+
+div.card-header {
+    text-align: center;
+}
+
+p.card-text {
+    text-align: center;
 }
